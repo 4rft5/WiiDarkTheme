@@ -11,7 +11,7 @@ It is possible to edit the files of this theme, as they are being shared here in
 ![image](https://github.com/user-attachments/assets/2be97106-6d28-4e4a-bf3a-8ca15c1d4828)
 
 ## Installation
-**CAUTION! Installing Wii Themes has the potential to brick your system. Proceed with caution, and install precautionary measures, such as BootMii and Priiloader.**
+**CAUTION! Installing Wii Themes has the potential to brick your system. Proceed with caution, and install precautionary measures, such as BootMii and Priiloader. See <a href="https://wii.hacks.guide/hbc.html">wii.hacks.guide</a> for more info.**
 
 1. Download the entire folder from this repository, and use its contents (minus the README) to create a .zip, changing the file extension to .mym.
 
