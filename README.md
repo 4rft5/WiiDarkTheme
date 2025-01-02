@@ -13,15 +13,15 @@ It is possible to edit the files of this theme, as they are being shared here in
 ## Installation
 **CAUTION! Installing Wii Themes has the potential to brick your system. Proceed with caution, and install precautionary measures, such as BootMii and Priiloader.**
 
-Download the entire folder from this repository, and use its contents create a .zip, changing the file extension to .mym.
+1. Download the entire folder from this repository, and use its contents (minus the README) to create a .zip, changing the file extension to .mym.
 
-Download ThemeMii from the following link: <a href="https://wiibrew.org/wiki/ThemeMii"> ThemeMii Download</a>
+2. Download ThemeMii from the following link: <a href="https://wiibrew.org/wiki/ThemeMii"> ThemeMii Download</a>
 
-With ThemeMii open, select File, then choose Open, and select your .mym file.
+3. With ThemeMii open, select File, then choose Open, and select your .mym file.
 
-With the mym file open, select "Create csm" and supply your .app file from wherever you get it. (If you don't know where to find this, look into <a href="https://wiibrew.org/wiki/NUS_Downloader"> NUSDownloader</a>.)
+4. With the mym file open, select "Create csm" and supply your .app file from wherever you get it. (If you don't know where to find this, look into <a href="https://wiibrew.org/wiki/NUS_Downloader"> NUSDownloader</a>.)
 
-Place your newly created csm file in your themes folder, and install it on your Wii.
+5. Place your newly created csm file in your themes folder, and install it on your Wii.
 
 Enjoy!
 
