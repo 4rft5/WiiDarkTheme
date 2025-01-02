@@ -26,6 +26,6 @@ It is possible to edit the files of this theme, as they are being shared here in
 Enjoy!
 
 ### Editing and Publishing
-If you wish to edit and publish this theme, please credit this repo if you do so. Please do not distribute the theme, (wether it be in unpacked, mym or csm form) if it has not been edited.
+If you wish to publish an edited version of this theme, please credit this repo if you do so. Please do not distribute the theme, (wether it be in unpacked, mym or csm form) if it has not been edited.
 
 ![image](https://github.com/user-attachments/assets/d3bc9804-ba2b-47c1-bc28-b97ebd42c968)
